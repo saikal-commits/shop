@@ -9,7 +9,7 @@ fetch("https://fakestoreapi.com/products")
         <div>
     <img src=${el.image} alt="">
     <span>${el.id}</span>
-    <h3>${el.price}</h3>  
+    <h3>${el.price}$</h3>  
     <h2>${el.description}</h2>
     <button class="btn btn-success">add</button>
 
