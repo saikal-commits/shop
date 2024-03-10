@@ -20,8 +20,17 @@
   border-radius: 5px;
 }
 
-.cards h2 {
-  font-size: 10px;
+.cards p {
+  font-size: 11px;
   margin-top: 10px;
   color: #333333;
+}
+
+.delBtn {
+  width: 90px;
+}
+
+.cards h3 {
+  font-size: 13px;
+  margin: 5px 09;
 }
